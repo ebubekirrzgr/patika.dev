@@ -4,8 +4,6 @@
 
 Root = 7 için :
 
-![Binary-Search-Tree](C:\Users\ebubek\Desktop\Screenshot_10.png)
+![Binary-Search-Tree](https://raw.githubusercontent.com/ebubekirrzgr/patika.dev/main/Data%20Structures%20and%20Algorithms/Binary%20Search%20Tree%20Project/binary-search-tree.png)
 
-
-
-## 
+##
